@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428716201256",
+    "project_id": "studio-veno-makefuture",
+    "storage_bucket": "studio-veno-makefuture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428716201256:android:94c94e5f898e134eb0ac1d",
+        "android_client_info": {
+          "package_name": "kr.veno.makefuture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHm-SyVkEdsQdfAIwaS2VStbbksBBtT7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
